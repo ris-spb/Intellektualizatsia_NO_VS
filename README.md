@@ -1,0 +1,1 @@
+# Intellektualizatsia_NO_VS
