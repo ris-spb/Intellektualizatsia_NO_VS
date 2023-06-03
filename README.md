@@ -241,11 +241,11 @@ $$ a^{2} + b^{2} = c^{2}$$
 
 Google начала использовать обучаемых роботов в своих офисах в Сан-Франциско для выполнения легких задач по уборке таких, как сортировать мусор, убирать пыль и грязь с плоских поверхностей, двигать стулья, открывать двери и многое другое. Робота-уборщика создало подразделение Alphabet - Everyday Robot, которое специализируется на экспериментальных разработках. Устройства, о которых идет речь, по сути, представляют собой гибкие многофункциональные манипуляторы на колесах, прикрепленных к центральной башне. На вершине башни находится голова с камерами и датчиками машинного зрения, а сбоку вращающийся лидарный блок для навигации.
 
-![Рисунок 17. Робот уборщик в Google](https://sun9-10.userapi.com/impg/MTK_3PMDuJo85uqpmgNfnkSIHEuppF3c8YbfbQ/25fFf__yKos.jpg?size=1280x720&quality=95&sign=4d862268f7d65d021b621bd806209e4c&type=album)
+![Рисунок 17. Робот уборщик в Google]([https://sun9-10.userapi.com/impg/MTK_3PMDuJo85uqpmgNfnkSIHEuppF3c8YbfbQ/25fFf__yKos.jpg?size=1280x720&quality=95&sign=4d862268f7d65d021b621bd806209e4c&type=album](https://sun9-10.userapi.com/impg/MTK_3PMDuJo85uqpmgNfnkSIHEuppF3c8YbfbQ/25fFf__yKos.jpg?size=1297x730&quality=95&sign=4eefbf8800b6d08a3ae59e7e0d7cb434&type=album))
 
 Рисунок 17. Робот уборщик в Google
 
-![Рисунок 18. Робот уборщик в Google](https://sun9-28.userapi.com/impg/bBAxySEsmvlqdbVTN_5o9l7mCU-xx-okO3GyAw/h6cdYntPBXc.jpg?size=1200x675&quality=95&sign=d7fa0c05989b64eb397280d03374b2b7&type=album)
+![Рисунок 18. Робот уборщик в Google]([https://sun9-28.userapi.com/impg/bBAxySEsmvlqdbVTN_5o9l7mCU-xx-okO3GyAw/h6cdYntPBXc.jpg?size=1200x675&quality=95&sign=d7fa0c05989b64eb397280d03374b2b7&type=album](https://sun9-28.userapi.com/impg/bBAxySEsmvlqdbVTN_5o9l7mCU-xx-okO3GyAw/h6cdYntPBXc.jpg?size=1200x675&quality=95&sign=d7fa0c05989b64eb397280d03374b2b7&type=album))
 
 Рисунок 18. Робот уборщик в Google
 
